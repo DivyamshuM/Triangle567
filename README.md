@@ -1,1 +1,1 @@
-[![<DivyamshuM>](https://circleci.com/gh/<DivyamshuM>/<Triangle567>.svg?style=svg)](https://app.circleci.com/pipelines/github/<DivyamshuM>/<Triangle567>?branch=main&filter=all)
+[![DivyamshuM](https://circleci.com/gh/DivyamshuM/Triangle567.svg?style=svg)](https://app.circleci.com/pipelines/github/DivyamshuM/Triangle567?branch=main&filter=all)
